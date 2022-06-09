@@ -128,7 +128,7 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 19px;
+  gap: 25px;
   margin: 17px 0;
 }
 
