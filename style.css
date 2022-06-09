@@ -73,7 +73,6 @@ h2 {
 p {
   font-weight: var(--fw-light);
   color: var(--clr-soft-blue);
-  line-height: 1.7;
 }
 
 .dark-color {
@@ -129,8 +128,8 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 23px;
-  margin: 27px 0;
+  gap: 25px;
+  margin: 30px 0;
 }
 
 .card--detail {
