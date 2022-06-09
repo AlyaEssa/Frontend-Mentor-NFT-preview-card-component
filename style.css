@@ -128,8 +128,8 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 25px;
-  margin: 19px 0;
+  gap: 19px;
+  margin: 17px 0;
 }
 
 .card--detail {
